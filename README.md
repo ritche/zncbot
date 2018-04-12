@@ -1,0 +1,2 @@
+# zncbot
+znc bot
